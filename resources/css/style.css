@@ -5,6 +5,10 @@ h1 {
 	color: #FFFFFF;
 }
 
+p {
+	color: red;
+}
+
 body {
 	background-color: #000000;
 }
