@@ -10,6 +10,10 @@ body {
 	text-align: center;
 }
 
+*{
+	font-family: verdana, sans-sarif;
+}
+
 .download {
 	color: aquamarine;
 	font-size: 16px;
