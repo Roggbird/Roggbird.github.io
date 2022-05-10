@@ -37,3 +37,10 @@ video {
 img {
 	padding-top: 1%;
 }
+
+#copyright {
+	text-align: right;
+	color: gray;
+	margin-right: 15px;
+	font-size: 21px;
+}
